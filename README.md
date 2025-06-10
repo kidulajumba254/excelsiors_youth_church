@@ -29,8 +29,8 @@ A modern, bilingual (English/Swahili) church website built with Next.js 14, Tail
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/kidulajumba254/Local-Youth-Church-Website.git
-cd Local-Youth-Church-Website
+git clone https://github.com/kidulajumba254/excelsiors_youth_church/
+cd church-website
 ```
 
 2. Install dependencies:
